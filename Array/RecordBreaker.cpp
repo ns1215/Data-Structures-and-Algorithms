@@ -2,7 +2,8 @@
 
 1] larger than prev 
         or
-2] larger then following 
+2] larger then following.
+
 
  */
 
