@@ -1,3 +1,11 @@
+/* 
+write a code to multiply matrix of different order 
+Order should be in a form of 
+Matrix 1= a X b
+Matrix 2= b X c
+
+ */
+
 #include<iostream>
 using namespace std;
 
