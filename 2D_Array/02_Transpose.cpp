@@ -1,3 +1,7 @@
+/* 
+find the transpose of the given matrix 
+
+ */
 #include<iostream>
 using namespace std;
 
