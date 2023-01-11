@@ -1,3 +1,10 @@
+/* 
+
+write a code to find the product of two matrix of n order
+take the value of n from the user
+
+ */
+
 #include<iostream>
 using namespace std;
 
