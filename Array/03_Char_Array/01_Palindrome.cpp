@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int n;
-    cin>>n;     //size of the string
+    cin>>n;     
     char a[n+1];
     cin>>a;
     int i=0,check=0;
