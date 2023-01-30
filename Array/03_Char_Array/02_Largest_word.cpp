@@ -7,7 +7,7 @@ int main()
     cin>>n;     //size of the string from user
     cin.ignore(); 
     char a[n+1];
-    cin.getline(a,n+1);   // To accept the whole line with spaces 
+    cin.getline(a,n+1);   // To accept the whole line with spaces
     cin.ignore();       // To ignore buffer
     cout<<a<<endl;
     int i,start=0,count=0,Max_length=0,k=0;
