@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-jj
 int main()
 {
     int n;
