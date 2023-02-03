@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int n;
-    cin>>n;     //size of the string from user
+    cin>>n;     //size of the string from use
     cin.ignore(); 
     char a[n+1];
     cin.getline(a,n+1);   // To accept the whole line with spaces
