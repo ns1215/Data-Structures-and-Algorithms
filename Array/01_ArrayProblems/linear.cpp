@@ -3,7 +3,7 @@
 taking an array of size n from the user 
 then finding the element in the array, return the index value of the element if found
 else printing "element not found " message
- bKJFB<BF
+ 
  */
 
 
